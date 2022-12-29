@@ -236,9 +236,9 @@ h1 {
 }
 h2 {
   position: absolute;
-  width: 371.15px;
-  height: 46.24px;
-  left: 619.43px;
+  width: 1173.16px;
+  height: 425px;
+  left: 215px;
   top: 991px;
 
   font-family: "Roboto";
@@ -251,12 +251,40 @@ h2 {
 
   color: #212121;
 }
+.keyboard {
+  position: absolute;
+  width: 373.16px;
+  height: 323.7px;
+  left: 215px;
+  top: 1092.3px;
+
+  background: url();
+  mix-blend-mode: normal;
+}
+.smartphone {
+  position: absolute;
+  width: 373.16px;
+  height: 323.7px;
+  left: 618.42px;
+  top: 1092.3px;
+
+  background: url();
+}
+.ipad {
+  position: absolute;
+  width: 373.16px;
+  height: 323.7px;
+  left: 1015px;
+  top: 1092px;
+
+  background: url();
+}
 .equip {
   position: absolute;
-  width: 263px;
-  height: 42px;
-  left: 669px;
-  top: 1604px;
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1510px;
 
   font-family: "Roboto";
   font-style: normal;
@@ -270,4 +298,44 @@ h2 {
 }
 .link-button:hover {
   color: red;
+}
+.andres {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 208px;
+  top: 1696px;
+
+  background: url();
+  border-radius: 0px;
+}
+.carla {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 515px;
+  top: 1696px;
+
+  background: url();
+  border-radius: 0px;
+}
+.mario {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 822px;
+  top: 1696px;
+
+  background: url();
+  border-radius: 0px;
+}
+.pablo {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 1115px;
+  top: 1696px;
+
+  background: url();
+  border-radius: 0px;
 }
