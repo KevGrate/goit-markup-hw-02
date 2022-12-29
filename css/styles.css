@@ -1,0 +1,273 @@
+.title-up {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration: none;
+  /* identical to box height */
+
+  text-align: right;
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+}
+ul {
+  list-style-type: none;
+}
+
+.menu-nav {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+
+  color: #2196f3;
+}
+.studio-nav {
+  position: absolute;
+  width: 49px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+  text-decoration: none;
+}
+.briefcase-nav {
+  position: absolute;
+  width: 65px;
+  height: 16px;
+  left: 552px;
+  top: 32px;
+  text-decoration: none;
+}
+.contacts-nav {
+  position: absolute;
+  width: 67px;
+  height: 16px;
+  left: 667px;
+  top: 32px;
+  text-decoration: none;
+}
+.email {
+  position: absolute;
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+
+  color: #2196f3;
+  text-decoration: none;
+  list-style-type: none;
+}
+.tele {
+  position: absolute;
+  width: 118px;
+  height: 16px;
+  left: 1263px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+
+  color: #757575;
+  text-decoration: none;
+  list-style-type: none;
+}
+body {
+  font-family: "roboto", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+h1 {
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 448px;
+  top: 280px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.bg {
+  position: absolute;
+  width: 1600px;
+  height: 600px;
+  left: -4px;
+  top: 80px;
+
+  background: #2f303a;
+}
+.service {
+  width: 197px;
+  height: 30px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 32px;
+  gap: 10px;
+
+  position: absolute;
+  width: 261px;
+  height: 50px;
+  left: 666px;
+  top: 430px;
+
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  position: absolute;
+  width: 261px;
+  height: 50px;
+  left: 666px;
+  top: 430px;
+}
+.details {
+  position: absolute;
+  width: 270px;
+  height: 16px;
+  left: 215px;
+  top: 775px;
+}
+.text-details {
+  position: absolute;
+  width: 270px;
+  height: 75px;
+  left: 215px;
+  top: 801px;
+}
+.puntuality {
+  position: absolute;
+  width: 270px;
+  height: 16px;
+  left: 515px;
+  top: 775px;
+}
+.text-puntuality {
+  position: absolute;
+  width: 270px;
+  height: 96px;
+  left: 515px;
+  top: 801px;
+}
+.planning {
+  position: absolute;
+  width: 270px;
+  height: 16px;
+  left: 815px;
+  top: 775px;
+}
+.text-planning {
+  position: absolute;
+  width: 270px;
+  height: 75px;
+  left: 815px;
+  top: 801px;
+}
+.tech {
+  position: absolute;
+  width: 270px;
+  height: 16px;
+  left: 1115px;
+  top: 775px;
+}
+.text-tech {
+  position: absolute;
+  width: 270px;
+  height: 75px;
+  left: 1115px;
+  top: 801px;
+}
+h2 {
+  position: absolute;
+  width: 371.15px;
+  height: 46.24px;
+  left: 619.43px;
+  top: 991px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+.equip {
+  position: absolute;
+  width: 263px;
+  height: 42px;
+  left: 669px;
+  top: 1604px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+.link-button:hover {
+  color: red;
+}
