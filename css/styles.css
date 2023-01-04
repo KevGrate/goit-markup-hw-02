@@ -1,9 +1,4 @@
 .title-up {
-  width: 145px;
-  height: 31px;
-  left: 215px;
-  top: 24px;
-
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
@@ -32,32 +27,15 @@ ul {
   color: #2196f3;
 }
 .studio-nav {
-  width: 49px;
-  height: 16px;
-  left: 453px;
-  top: 32px;
   text-decoration: none;
 }
 .briefcase-nav {
-  width: 65px;
-  height: 16px;
-  left: 552px;
-  top: 32px;
   text-decoration: none;
 }
 .contacts-nav {
-  width: 67px;
-  height: 16px;
-  left: 667px;
-  top: 32px;
   text-decoration: none;
 }
 .email {
-  width: 135px;
-  height: 16px;
-  left: 1078px;
-  top: 32px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -70,11 +48,6 @@ ul {
   list-style-type: none;
 }
 .tele {
-  width: 118px;
-  height: 16px;
-  left: 1263px;
-  top: 32px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -99,11 +72,6 @@ body {
   color: #757575;
 }
 h1 {
-  width: 696px;
-  height: 120px;
-  left: 448px;
-  top: 280px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 900;
@@ -121,9 +89,6 @@ h1 {
   background: #2f303a;
 }
 .service {
-  width: 197px;
-  height: 30px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
@@ -134,54 +99,6 @@ h1 {
   color: #ffffff;
 
   background: #2196f3;
-}
-.details {
-  width: 270px;
-  height: 16px;
-  left: 215px;
-  top: 775px;
-}
-.text-details {
-  width: 270px;
-  height: 75px;
-  left: 215px;
-  top: 801px;
-}
-.puntuality {
-  width: 270px;
-  height: 16px;
-  left: 515px;
-  top: 775px;
-}
-.text-puntuality {
-  width: 270px;
-  height: 96px;
-  left: 515px;
-  top: 801px;
-}
-.planning {
-  width: 270px;
-  height: 16px;
-  left: 815px;
-  top: 775px;
-}
-.text-planning {
-  width: 270px;
-  height: 75px;
-  left: 815px;
-  top: 801px;
-}
-.tech {
-  width: 270px;
-  height: 16px;
-  left: 1115px;
-  top: 775px;
-}
-.text-tech {
-  width: 270px;
-  height: 75px;
-  left: 1115px;
-  top: 801px;
 }
 h2 {
   font-family: "Roboto";
@@ -202,11 +119,6 @@ h2 {
   background: #2196f3;
 }
 .all {
-  width: 73px;
-  height: 38px;
-  left: 495px;
-  top: 186px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -223,10 +135,6 @@ h2 {
   border-style: none;
 }
 .sites {
-  width: 128px;
-  height: 38px;
-  left: 576px;
-  top: 186px;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -243,10 +151,6 @@ h2 {
   border-style: none;
 }
 .applications {
-  width: 145px;
-  height: 38px;
-  left: 712px;
-  top: 186px;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -263,10 +167,6 @@ h2 {
   border-style: none;
 }
 .design {
-  width: 103px;
-  height: 38px;
-  left: 865px;
-  top: 186px;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -283,10 +183,6 @@ h2 {
   border-style: none;
 }
 .marketing {
-  width: 130px;
-  height: 38px;
-  left: 976px;
-  top: 186px;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -302,25 +198,11 @@ h2 {
   border-radius: 4px;
   border-style: none;
 }
-.projects {
-  width: 370px;
-  height: 294px;
-}
 
 .bg-footer {
-  width: 1600px;
-  height: 252px;
-  left: 0px;
-  top: 1628px;
-
   background: #2f303a;
 }
 .bg-footer-studio {
-  width: 1600px;
-  height: 252px;
-  left: 0px;
-  top: 2158px;
-
   background: #2f303a;
 }
 .studio-foot {
