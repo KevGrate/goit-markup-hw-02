@@ -1,3 +1,15 @@
+:root {
+  font-family: "roboto", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
 .title-up {
   font-family: "Raleway";
   font-style: normal;
@@ -28,12 +40,16 @@ ul {
 }
 .studio-nav {
   text-decoration: none;
+  color: #757575;
 }
+
 .briefcase-nav {
   text-decoration: none;
+  color: #757575;
 }
 .contacts-nav {
   text-decoration: none;
+  color: #757575;
 }
 .email {
   font-family: "Roboto";
@@ -59,18 +75,7 @@ ul {
   text-decoration: none;
   list-style-type: none;
 }
-body {
-  font-family: "roboto", Arial, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  /* or 171% */
 
-  letter-spacing: 0.03em;
-
-  color: #757575;
-}
 h1 {
   font-family: "Roboto";
   font-style: normal;
@@ -99,6 +104,14 @@ h1 {
   color: #ffffff;
 
   background: #2196f3;
+  border-style: none;
+}
+.service:hover {
+  color: #757575;
+}
+.service :focus {
+  color: white;
+  background: #08518d;
 }
 h2 {
   font-family: "Roboto";
@@ -111,10 +124,10 @@ h2 {
   color: #212121;
 }
 .link-button:hover {
-  color: red;
+  color: #2196f3;
 }
 
-.link-button:focus {
+.link-button :focus {
   color: white;
   background: #2196f3;
 }
