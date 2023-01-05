@@ -154,6 +154,7 @@ img {
   border-style: none;
 }
 .filters:focus {
+  color: #ffffff;
   background-color: #2196f3;
 }
 .sites {
