@@ -124,6 +124,12 @@ h2 {
 h3 {
   color: #212121;
 }
+.section-color {
+  background: #f5f4fa;
+}
+.equip {
+  background-color: #ffffff;
+}
 .sub-tittle {
   font-family: "Roboto";
   font-style: normal;
