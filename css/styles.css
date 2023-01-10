@@ -106,9 +106,7 @@ h1 {
   background: var(--brand-color);
   border-style: none;
 }
-.service:hover {
-  color: var(--text-color);
-}
+
 .service :focus {
   color: white;
   background: #08518d;
@@ -126,6 +124,28 @@ h2 {
 h3 {
   color: #212121;
 }
+.sub-tittle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+}
+.project {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.87;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: var(--text-color);
+}
 .link-button:hover {
   color: var(--brand-color);
 }
@@ -133,9 +153,15 @@ h3 {
 .link-button :focus {
   color: white;
   background: var(--brand-color);
+  cursor: pointer;
 }
+
 .hand {
   cursor: pointer;
+}
+.current-button {
+  background: var(--brand-color);
+  color: #ffffff;
 }
 .all {
   font-family: "Roboto";
@@ -148,8 +174,6 @@ h3 {
   text-align: center;
   letter-spacing: 0.03em;
 
-  color: #212121;
-  background: #f5f4fa;
   border-radius: 4px;
   border-style: none;
 }
